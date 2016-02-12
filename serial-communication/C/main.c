@@ -1,4 +1,10 @@
-// gcc main.c sha256.c -o main -lwiringPi -lm
+/*********************************************************************
+* Filename:   main.c
+* Author:     Farshad Momtaz (Fdoktorm@uci.edu)
+* Copyright:
+* Details:    
+* Compile: 	  gcc main.c sha256.c -o main -lwiringPi -lm
+*********************************************************************/
 
 #include <stdio.h>		/* printf */
 #include <math.h>       /* sqrt */
